@@ -4,7 +4,7 @@
 
 ## 入口与编排
 
-- [skill-reference.md](skill-reference.md)：领域用途、核心规则、任务导航与按需读取规则，唯一技能入口。
+- [skill-reference.md](skill-reference.md)：领域用途、核心规则、任务导航与按需读取规则的中文参考正文，不是安装或运行入口；唯一正式技能入口是[日文 SKILL.md](../../find-rental-in-japan/SKILL.md)。
 - [主agent](references/main-agent.md)：整理条件、优先级与核验方法，安排范围和并行资源，处理升级决策及用户沟通。
 - [工作流程 DAG](references/workflow.md)：整体依赖、批次并行与单套房源内部流程，两张 Mermaid 无环图。
 - [交接与结果约定](references/contracts.md)：条件档案、收集交接、房源分派、复核输入及回传、逐套结果和统一交付格式。
