@@ -1,0 +1,4 @@
+interface:
+  display_name: "日本の賃貸物件の検索と検証"
+  short_description: "地域別の一次選別、物件の検証と独立した再確認を、merge resolver が一括統合"
+  default_prompt: "$find-japan-rentals を使い、私の条件に合わせて日本の賃貸物件を探してください。主エージェントが進行管理し、merge resolver が重複排除・集約を行い、各物件エージェントが完全な検証と独立した再確認エージェントの作成を担当し、最後に統一された結果を提出してください。"
