@@ -1,4 +1,4 @@
 interface:
   display_name: "日本租房搜索与核验"
   short_description: "区域初筛、房源核验与独立复核，由merge resolver统一归并"
-  default_prompt: "使用 $find-japan-rentals 按我的条件搜索日本租房房源，由主agent编排、merge resolver去重汇总，各房源agent完整核验并自行创建独立复核agent，最后交付统一结果。"
+  default_prompt: "使用 $find-rental-in-japan 按我的条件搜索日本租房房源，由主agent编排、merge resolver去重汇总，各房源agent完整核验并自行创建独立复核agent，最后交付统一结果。"

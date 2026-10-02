@@ -1,5 +1,5 @@
 ---
-name: find-japan-rentals
+name: find-rental-in-japan
 description: 搜索、筛选和核验日本租房房源。用于按预算、通勤、户型及特殊条件找房，或复核收藏房源；支持按区域并行收集、按具体房源核验与独立复核，并输出带来源的统一比较结果。
 ---
 

@@ -4,7 +4,7 @@
 
 - [技能参考正文](skill-reference.md)：原中文版入口内容，文件名已改为 `skill-reference.md`
 - [文档地图](contents.md)：角色文档与按需读取的附录
-- [日文正式技能](../../find-japan-rentals/SKILL.md)：安装与使用入口
+- [日文正式技能](../../find-rental-in-japan/SKILL.md)：安装与使用入口
 
 正文内容保持原样；文档地图中指向原入口的链接已更新。`agents/openai.yaml` 仅保留作中文元数据参考。
 
